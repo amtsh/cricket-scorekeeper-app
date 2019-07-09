@@ -2,6 +2,8 @@
 
 This app tracks score of a live cricket match, with single and tournament mode.
 
+![image](https://i.imgsafe.org/4a/4a939b757d.jpeg)
+
 ### Installation
 
 (Refer to https://docs.expo.io/versions/latest/introduction/installation/)
