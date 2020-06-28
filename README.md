@@ -2,7 +2,7 @@
 
 This app tracks score of a live cricket match, with single and tournament mode.
 
-![image](https://i.imgsafe.org/4a/4a939b757d.jpeg)
+![image](https://i.ibb.co/Qvx9X7c/cricket.png)
 
 ### Installation
 
